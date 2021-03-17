@@ -1,0 +1,7 @@
+D:\Programming\C#\Class dan Project\TugasTaxi\Class and Project\ClassTaxi\bin\Debug\ClassTaxi.exe.config
+D:\Programming\C#\Class dan Project\TugasTaxi\Class and Project\ClassTaxi\bin\Debug\ClassTaxi.exe
+D:\Programming\C#\Class dan Project\TugasTaxi\Class and Project\ClassTaxi\bin\Debug\ClassTaxi.pdb
+D:\Programming\C#\Class dan Project\TugasTaxi\Class and Project\ClassTaxi\obj\Debug\ClassTaxi.csprojAssemblyReference.cache
+D:\Programming\C#\Class dan Project\TugasTaxi\Class and Project\ClassTaxi\obj\Debug\ClassTaxi.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Class dan Project\TugasTaxi\Class and Project\ClassTaxi\obj\Debug\ClassTaxi.exe
+D:\Programming\C#\Class dan Project\TugasTaxi\Class and Project\ClassTaxi\obj\Debug\ClassTaxi.pdb
